@@ -14,5 +14,5 @@ The platform will feature:
 
 The overall goal of the platform is to provide a hub for researchers to interact using qualities of social media but with the added safety blanket of content coming from expert sources. NeuralHive will allow recruiters to actively see people’s work and collaborations allowing for a more engaging and specialized recruitment process for research collaborations. Altogether, we believe this program can be revolutionary for research collaboration and are confident it will have a big impact on the research community.
 
-
+<hr />
 <h6>Based on the Freelancer template from Bootstrap</h6>
